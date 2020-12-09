@@ -1,4 +1,4 @@
-## Hola, I'm [Pawan Kumar!](https://pawan.live) 👋
+## HI, I'm [Buddhika Weerasinghe!](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
