@@ -65,11 +65,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TurboJapuraEfac&show_icons=true&theme=light&line_height=27" alt="Buddhika's github stats"/>
 </a>
 <a href="https://github.com/TurboJapuraEfac/socialMediaApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TurboJapuraEfac&repo=socialMediaApp&theme=light" />
 
 </a>
 <a href="https://github.com/TurboJapuraEfac/drdelfinal">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TurboJapuraEfac&repo=drdelfinal&theme=light" />
 </a>
 
 <div align="center">
