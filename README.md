@@ -39,7 +39,7 @@
 - ⚡ Favorites: I love Silicon Valley TV series.
 
 [![Twitter: nimeshbuddhika](https://img.shields.io/twitter/follow/nimeshbuddhika?style=social)](https://twitter.com/nimeshbuddhika)
-[![Linkedin: BuddhikaWeerasinghe](https://img.shields.io/badge/-buddhika-weerasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)
+[![Linkedin: BuddhikaWeerasinghe](https://img.shields.io/badge/-buddhika-weerasinghe-8494a1109-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)
 [![GitHub TurboJapuraEfac](https://img.shields.io/github/followers/TurboJapuraEfac?label=follow&style=social)](https://github.com/TurboJapuraEfac)
 [![website](https://img.shields.io/badge/PortfolioWebsite-_-2648ff?style=flat-square&logo=google-chrome)]()
 
