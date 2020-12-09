@@ -29,19 +29,19 @@
 
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🔭 I’m currently studying at [Faculty Of Computer Engineering, University Of Sri Jayewardenapura](http://eng.sjp.ac.lk).
+- 🌱 I’m currently doing a minor in Data Mangement.
+- 👯 Here are some of my achivements [LinkedIn](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109).
+- 🤔 I’m looking for help with machine learning.
+- 💬 Ask me about React JS or any tech related stuff.
+- 📫 How to reach me: [Twitter - @nimeshbuddhika](https://twitter.com/nimeshbuddhika)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Favorites: I love Silicon Valley TV series.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Twitter: nimeshbuddhika](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/nimeshbuddhika)
+[![Linkedin: BuddhikaWeerasinghe](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)
+[![GitHub TurboJapuraEfac](https://img.shields.io/github/followers/TurboJapuraEfac?label=follow&style=social)](https://github.com/TurboJapuraEfac)
+[![website](https://img.shields.io/badge/PortfolioWebsite-_____-2648ff?style=flat-square&logo=google-chrome)]()
 
 
 **Languages and Tools:**  
