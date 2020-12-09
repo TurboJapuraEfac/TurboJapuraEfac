@@ -55,7 +55,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/security/security.png"></code>    
 
 <a href="https://github.com/TurboJapuraEfac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurboJapuraEfac&theme=light&hide_langs_below=1" />
@@ -63,11 +64,11 @@
 <a href="https://github.com/TurboJapuraEfac">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TurboJapuraEfac&show_icons=true&theme=light&line_height=27" alt="Buddhika's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
+<a href="https://github.com/TurboJapuraEfac/socialMediaApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
+<a href="https://github.com/TurboJapuraEfac/drdelfinal">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a>
 
