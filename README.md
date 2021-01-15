@@ -37,12 +37,12 @@
 - 📫 How to reach me: [Twitter - @nimeshbuddhika](https://twitter.com/nimeshbuddhika)
 - 😄 Pronouns: He/His
 - ⚡ Favorites: I love Silicon Valley TV series.
-- 💬 Websites created by me : https://edumark.lk/
+- 💬 Websites created by me : https://edumark.lk/  & https://turbojapuraefac.github.io/portfolio/
 
 [![Twitter: nimeshbuddhika](https://img.shields.io/twitter/follow/nimeshbuddhika?style=social)](https://twitter.com/nimeshbuddhika)
 [![Linkedin: BuddhikaWeerasinghe](https://img.shields.io/badge/-buddhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)
 [![GitHub TurboJapuraEfac](https://img.shields.io/github/followers/TurboJapuraEfac?label=follow&style=social)](https://github.com/TurboJapuraEfac)
-[![website](https://img.shields.io/badge/PortfolioWebsite-https://turbojapuraefac.github.io/portfolio/)]()
+
 
 
 **Languages and Tools:**  
