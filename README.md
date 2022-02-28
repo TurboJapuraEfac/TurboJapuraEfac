@@ -146,27 +146,37 @@
 </table>
 
 
-<a href="https://github.com/TurboJapuraEfac">
+<div align="center">
+  <a href="https://github.com/TurboJapuraEfac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurboJapuraEfac&theme=light&hide_langs_below=1" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TurboJapuraEfac&" alt="TurboJapuraEfac" /></p>
-<a href="https://github.com/TurboJapuraEfac">
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TurboJapuraEfac&" alt="TurboJapuraEfac" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/TurboJapuraEfac">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TurboJapuraEfac&show_icons=true&theme=light&line_height=27" alt="Buddhika's github stats"/>
 </a>
+</div>
 
 
-<!-- 
+
+
+
 <a href="https://github.com/TurboJapuraEfac/socialMediaApp"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TurboJapuraEfac&repo=socialMediaApp&theme=light" /> </a>
 <a href="https://github.com/TurboJapuraEfac/drdelfinal">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TurboJapuraEfac&repo=drdelfinal&theme=light" /></a>
--->
+
 
 
 
 <div align="center">
-🐍 **Snake eating my contribution graph**
+🐍 ##Snake eating my contribution graph
 <p align="center">
-  <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/TurboJapuraEfac/TurboJapuraEfac/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 </div>
