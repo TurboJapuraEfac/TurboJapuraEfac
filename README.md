@@ -100,7 +100,7 @@
 
 <td align="center" width="25%">
 <span><b><center>Pandas</center></b></span> <br/>
-<img height=75px src="https://image.flaticon.com/icons/png/512/616/616563.png"> 
+<img height=75px src="https://pandas.pydata.org/static/img/pandas.svg"> 
 </td>
 
 <td align="center" width="25%">
