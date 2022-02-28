@@ -32,12 +32,12 @@
 - 🔭 I’m currently studying at [Faculty Of Engineering, University Of Sri Jayewardenapura](http://eng.sjp.ac.lk).
 - 🌱 I’m currently doing a minor in Data Mangement.
 - 👯 Here are some of my achivements [LinkedIn](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109).
-- 🤔 I’m looking for help with machine learning.
-- 💬 Ask me about React JS or any tech related stuff.
+- 🤔 I’m good at Machine Learning, Natural Language processing and Computer Vision.
+- 💬 Ask me about NLP,NLU,ML or any tech related stuff.
 - 📫 How to reach me: [Twitter - @nimeshbuddhika](https://twitter.com/nimeshbuddhika)
 - 😄 Pronouns: He/His
-- ⚡ Favorites: I love Silicon Valley TV series.
-- 💬 Websites created by me : EduMark: https://edumark.lk/  & Portfolio: https://buddhikaweerasinghe.live/
+- ⚡ Favorites: I love Silicon Valley , Billions and How I met your mother TV serieses.
+- 💬 Websites created by me : EduMark: https://edumark.lk/  & Portfolio: https://buddhikaweerasinghe.live/ & https://mbmc101.com/
 
 [![Twitter: nimeshbuddhika](https://img.shields.io/twitter/follow/nimeshbuddhika?style=social)](https://twitter.com/nimeshbuddhika)
 [![Linkedin: BuddhikaWeerasinghe](https://img.shields.io/badge/-buddhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)
@@ -45,7 +45,7 @@
 
 
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -57,7 +57,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-
+ -->
+ 
 ## Languages and Tools:
 <br/>
 <center>
@@ -123,7 +124,7 @@
 
 <td align="center" width="25%">
 <span><b><center>MySQL</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
+<img height=75px src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"/>
 </td>
 
 <td align="center" width="25%">
