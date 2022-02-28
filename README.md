@@ -37,7 +37,7 @@
 - 📫 How to reach me: [Twitter - @nimeshbuddhika](https://twitter.com/nimeshbuddhika)
 - 😄 Pronouns: He/His
 - ⚡ Favorites: I love Silicon Valley , Billions and How I met your mother TV serieses.
-- 💬 Websites created by me : EduMark: https://edumark.lk/  & Portfolio: https://buddhikaweerasinghe.live/ & MybodyMychoic.com  : https://mbmc101.com/
+- 💬 Websites created by me : EduMark: https://edumark.lk/  & Portfolio: https://buddhikaweerasinghe.live/ & MybodyMychoice.com  : https://mbmc101.com/
 
 [![Twitter: nimeshbuddhika](https://img.shields.io/twitter/follow/nimeshbuddhika?style=social)](https://twitter.com/nimeshbuddhika)
 [![Linkedin: BuddhikaWeerasinghe](https://img.shields.io/badge/-buddhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)
