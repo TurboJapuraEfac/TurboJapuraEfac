@@ -165,5 +165,8 @@
 
 
 <div align="center">
-
+🐍 **Snake eating my contribution graph**
+<p align="center">
+  <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 </div>
