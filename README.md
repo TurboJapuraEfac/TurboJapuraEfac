@@ -166,16 +166,16 @@
 
 
 
-<a href="https://github.com/TurboJapuraEfac/socialMediaApp"> 
+<!-- <a href="https://github.com/TurboJapuraEfac/socialMediaApp"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TurboJapuraEfac&repo=socialMediaApp&theme=light" /> </a>
 <a href="https://github.com/TurboJapuraEfac/drdelfinal">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TurboJapuraEfac&repo=drdelfinal&theme=light" /></a>
-
+ -->
 
 
 
 <div align="center">
-🐍 ##Snake eating my contribution graph
+  🐍 <b> Snake eating my contribution graph </b>
 <p align="center">
   <img src="https://github.com/TurboJapuraEfac/TurboJapuraEfac/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
