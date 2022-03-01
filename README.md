@@ -148,12 +148,12 @@
   
 <td align="center" width="25%">
 <span><b><center>SpaCy</center></b></span> <br/>
-<img height=75px src="https://en.wikipedia.org/wiki/File:SpaCy_logo.svg"/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/512px-SpaCy_logo.svg.png"/>
 </td>
   
 <td align="center" width="25%">
 <span><b><center>NLTK</center></b></span> <br/>
-<img height=75px src="https://miro.medium.com/max/1400/1*lQF-jVhavJ5Is3lJMa7HEw.png"/>
+<img height=75px src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/Screenshot-from-2019-07-05-13-45-55.png"/>
 </td>
   
   
