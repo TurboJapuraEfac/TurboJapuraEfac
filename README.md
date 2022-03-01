@@ -173,10 +173,7 @@
  -->
 
 
-
-
-  🐍 <b> Snake eating my contribution graph </b>
+🐍 **Snake eating my contribution graph**
 <p align="center">
   <img src="https://github.com/TurboJapuraEfac/TurboJapuraEfac/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
