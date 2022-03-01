@@ -140,12 +140,30 @@
 <span><b><center>Git</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
+  
+<td align="center" width="25%">
+<span><b><center>Colab</center></b></span> <br/>
+<img height=75px src="https://blog.educationecosystem.com/wp-content/uploads/2021/01/1_Lad06lrjlU9UZgSTHUoyfA.png"/>
+</td>
+  
+<td align="center" width="25%">
+<span><b><center>SpaCy</center></b></span> <br/>
+<img height=75px src="https://en.wikipedia.org/wiki/File:SpaCy_logo.svg"/>
+</td>
+  
+<td align="center" width="25%">
+<span><b><center>NLTK</center></b></span> <br/>
+<img height=75px src="https://miro.medium.com/max/1400/1*lQF-jVhavJ5Is3lJMa7HEw.png"/>
+</td>
+  
+  
 </tr>
 
 </tbody>
 </table>
 
 
+<br>
 <div align="center">
   <a href="https://github.com/TurboJapuraEfac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurboJapuraEfac&theme=light&hide_langs_below=1" />
@@ -172,8 +190,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TurboJapuraEfac&repo=drdelfinal&theme=light" /></a>
  -->
 
-
-🐍 **Snake eating my contribution graph**
-<p align="center">
-  <img src="https://github.com/TurboJapuraEfac/TurboJapuraEfac/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
