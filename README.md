@@ -151,11 +151,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurboJapuraEfac&theme=light&hide_langs_below=1" />
 </a>
 </div>
-
+<br>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TurboJapuraEfac&" alt="TurboJapuraEfac" />
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/TurboJapuraEfac">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TurboJapuraEfac&show_icons=true&theme=light&line_height=27" alt="Buddhika's github stats"/>
@@ -174,9 +174,9 @@
 
 
 
-<div align="center">
+
   🐍 <b> Snake eating my contribution graph </b>
 <p align="center">
   <img src="https://github.com/TurboJapuraEfac/TurboJapuraEfac/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-</div>
+
