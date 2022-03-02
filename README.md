@@ -158,6 +158,21 @@
   
   
 </tr>
+<tr>
+ <td align="center" width="25%">
+<span><b><center>Tableau</center></b></span> <br/>
+<img height=75px src="https://www.synaltic.fr/wp-content/uploads/2020/11/LOGO-TABLEAU-Benchmark.png"> 
+</td>
+  
+<td align="center" width="25%">
+<span><b><center>Power BI</center></b></span> <br/>
+<img height=75px src="https://yellowsys.fr/next/wp-content/uploads/2020/12/Logo-Power-BI.png"/>
+</td>
+  
+
+  
+  
+</tr>
 
 </tbody>
 </table>
