@@ -29,8 +29,8 @@
 
 
 
-- 🔭 I’m currently studying at [Faculty Of Engineering, University Of Sri Jayewardenapura](http://eng.sjp.ac.lk).
-- 🌱 I’m currently doing a minor in Data Mangement.
+- 🔭 I’m currently work at  [Sephora: Makeup, Skincare, Fragrance, Hair & Beauty Products](https://www.sephora.com/) as a ML Engineer.
+- 🌱 And also I am working as a ML Engineer at  [ILabs.lk](https://www.ilabs.lk/).
 - 👯 Here are some of my achivements [LinkedIn](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109).
 - 🤔 I’m good at Machine Learning, Natural Language processing and Computer Vision.
 - 💬 Ask me about NLP,NLU,ML or any tech related stuff.
