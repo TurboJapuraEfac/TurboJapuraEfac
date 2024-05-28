@@ -34,7 +34,7 @@
 - 🤔 I work on Big Data, Data Science and Natural Language Processing 
 - 💬 Ask me about Big Data or NLP or ML or any tech related stuff.
 - 📫 How to reach me: [Twitter - @nimeshbuddhika](https://twitter.com/nimeshbuddhika)
-- 😄 Pronouns: He/His- ⚡ Favorites: I love Silicon Valley , Billions and How I met your mother TV serieses.
+- ⚡ Favorites: I love Silicon Valley , Billions and How I met your mother TV serieses.
 
 [![Twitter: nimeshbuddhika](https://img.shields.io/twitter/follow/nimeshbuddhika?style=social)](https://twitter.com/nimeshbuddhika)
 [![Linkedin: BuddhikaWeerasinghe](https://img.shields.io/badge/-buddhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)
