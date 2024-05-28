@@ -30,8 +30,8 @@
 
 
 - 🔭 I’m currently work at  [Mobitel](https://www.mobitel.lk/) as an AI and Data Science Engineer.
-- 👯 Here are some of my achivements [LinkedIn](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109).
-- 🤔 I’m work on Big Data, Data Science and Natural Language Processing 
+- 👯 Connect with me on [LinkedIn](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109).
+- 🤔 I work on Big Data, Data Science and Natural Language Processing 
 - 💬 Ask me about Big Data or NLP or ML or any tech related stuff.
 - 📫 How to reach me: [Twitter - @nimeshbuddhika](https://twitter.com/nimeshbuddhika)
 - 😄 Pronouns: He/His- ⚡ Favorites: I love Silicon Valley , Billions and How I met your mother TV serieses.
