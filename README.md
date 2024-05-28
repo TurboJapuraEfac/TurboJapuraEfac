@@ -29,15 +29,12 @@
 
 
 
-- 🔭 I’m currently work at  [Sephora: Makeup, Skincare, Fragrance, Hair & Beauty Products](https://www.sephora.com/) as a ML Engineer.
-- 🌱 And also I am working as a ML Engineer at  [ILabs.lk](https://www.ilabs.lk/).
+- 🔭 I’m currently work at  [Mobitel](https://www.mobitel.lk/) as an AI and Data Science Engineer.
 - 👯 Here are some of my achivements [LinkedIn](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109).
-- 🤔 I’m good at Machine Learning, Natural Language processing and Computer Vision.
-- 💬 Ask me about NLP,NLU,ML or any tech related stuff.
+- 🤔 I’m work on Big Data, Data Science and Natural Language Processing 
+- 💬 Ask me about Big Data or NLP or ML or any tech related stuff.
 - 📫 How to reach me: [Twitter - @nimeshbuddhika](https://twitter.com/nimeshbuddhika)
-- 😄 Pronouns: He/His
-- ⚡ Favorites: I love Silicon Valley , Billions and How I met your mother TV serieses.
-- 💬 Websites created by me : EduMark: https://edumark.lk/  & Portfolio: https://buddhikaweerasinghe.live/ & MybodyMychoice.com  : https://mbmc101.com/
+- 😄 Pronouns: He/His- ⚡ Favorites: I love Silicon Valley , Billions and How I met your mother TV serieses.
 
 [![Twitter: nimeshbuddhika](https://img.shields.io/twitter/follow/nimeshbuddhika?style=social)](https://twitter.com/nimeshbuddhika)
 [![Linkedin: BuddhikaWeerasinghe](https://img.shields.io/badge/-buddhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109/)
