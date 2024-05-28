@@ -29,7 +29,7 @@
 
 
 
-- 🔭 I’m currently work at  [Mobitel](https://www.mobitel.lk/) as an AI and Data Science Engineer.
+- 🔭 I currently work at  [Mobitel](https://www.mobitel.lk/) as an AI and Data Science Engineer.
 - 👯 Connect with me on [LinkedIn](https://www.linkedin.com/in/buddhika-weerasinghe-8494a1109).
 - 🤔 I work on Big Data, Data Science and Natural Language Processing 
 - 💬 Ask me about Big Data or NLP or ML or any tech related stuff.
